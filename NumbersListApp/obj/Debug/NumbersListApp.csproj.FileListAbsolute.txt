@@ -1,0 +1,11 @@
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NumbersListApp\NumbersListApp\bin\Debug\NumbersListApp.exe.config
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NumbersListApp\NumbersListApp\bin\Debug\NumbersListApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NumbersListApp\NumbersListApp\bin\Debug\NumbersListApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NumbersListApp\NumbersListApp\obj\Debug\NumbersListApp.Properties.Resources.resources
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NumbersListApp\NumbersListApp\obj\Debug\NumbersListApp.csproj.GenerateResource.Cache
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NumbersListApp\NumbersListApp\obj\Debug\NumbersListApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NumbersListApp\NumbersListApp\obj\Debug\NumbersListApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\NumbersListApp\NumbersListApp\obj\Debug\NumbersListApp.AddNumberUI.resources
+F:\My Git\NumbersListApp\NumbersListApp\bin\Debug\NumbersListApp.exe.config
+F:\My Git\NumbersListApp\NumbersListApp\obj\Debug\NumbersListApp.exe
+F:\My Git\NumbersListApp\NumbersListApp\obj\Debug\NumbersListApp.pdb
